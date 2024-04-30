@@ -1,0 +1,5 @@
+rice
+1- rice
+2- oil
+3- salt
+4- water
